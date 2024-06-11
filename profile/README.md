@@ -9,8 +9,6 @@
 
 ---
 
-<br/>
-
 # 📌 요구사항 분석
 
 > 자세한 과정은 [이곳](https://github.com/nhnacademy-be6-yes-25-5/.github/discussions/1)에 정리하였습니다.
