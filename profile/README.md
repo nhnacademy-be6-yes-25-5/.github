@@ -1,11 +1,13 @@
-# Yes 25.5
+# 📗 Yes 25.5
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhnacademy-be6-yes-25-5&count_bg=%236A97F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > NHN 아카데미 6기 팀 `Yes 25.5` <br/>
 > 개발 기간 : 6.11 ~ ing
 
 ---
 
-# 요구사항 분석
+# 📌 요구사항 분석
 
 > 자세한 과정은 [이곳](https://github.com/nhnacademy-be6-yes-25-5/.github/discussions/1)에 정리하였습니다.
 
