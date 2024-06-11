@@ -10,9 +10,9 @@
 ---
 # 👨‍👨‍👧‍👦 저희는 이렇게 일해요!
 
-[데일리 스크럼](https://github.com/nhnacademy-be6-yes-25-5/scrum/discussions)
-[스프린트](https://github.com/nhnacademy-be6-yes-25-5/.github/milestones)
-[스프린트 회고](https://github.com/nhnacademy-be6-yes-25-5/scrum/issues)
+[데일리 스크럼](https://github.com/nhnacademy-be6-yes-25-5/scrum/discussions) <br/>
+[스프린트](https://github.com/nhnacademy-be6-yes-25-5/.github/milestones) <br/>
+[스프린트 회고](https://github.com/nhnacademy-be6-yes-25-5/scrum/issues) <br/>
 
 <br/>
 
