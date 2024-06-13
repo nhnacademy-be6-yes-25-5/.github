@@ -12,7 +12,7 @@
 
 [데일리 스크럼](https://github.com/nhnacademy-be6-yes-25-5/scrum/discussions/categories/daily-scrum) <br/>
 [스프린트](https://github.com/nhnacademy-be6-yes-25-5/scrum/milestones) <br/>
-[스프린트 회고]([https://github.com/nhnacademy-be6-yes-25-5/scrum/issues](https://github.com/nhnacademy-be6-yes-25-5/scrum/issues?q=is%3Aopen+is%3Aissue+label%3A%22%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8+%ED%9A%8C%EA%B3%A0%22)) <br/>
+[스프린트 회고](https://github.com/nhnacademy-be6-yes-25-5/scrum/issues?q=is%3Aopen+is%3Aissue+label%3A%22%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8+%ED%9A%8C%EA%B3%A0%22) <br/>
 
 <br/>
 
