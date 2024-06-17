@@ -24,9 +24,17 @@
 
 ![image](https://github.com/nhnacademy-be6-yes-25-5/.github/assets/105257665/c95c8d81-483f-460e-aebe-55a2fbe6c44c)
 
+<br/>
 
+# 🖼️ 와이어 프레임
+
+![image](https://github.com/nhnacademy-be6-yes-25-5/.github/assets/105257665/c179b0da-7981-47f0-bacb-74450a20adfe)
+
+<br/>
 
 # ERD
 
+> 자세한 과정은 [이곳](https://github.com/nhnacademy-be6-yes-25-5/.github/discussions/2)에 정리하였습니다.
 
-# 아키텍처
+![image](https://github.com/nhnacademy-be6-yes-25-5/.github/assets/105257665/f3960de1-7a33-4fe6-9e13-a8bb031811b9)
+
