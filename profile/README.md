@@ -51,6 +51,6 @@
 
 # 아키텍처 구조
 
-![yes255 아키텍처](https://github.com/user-attachments/assets/190af8dc-d38f-4bfd-bbc7-7e54f92d2ef6)
+![image](https://github.com/user-attachments/assets/28dfd58c-e205-4b46-a4a0-5be936c392a7)
 
 
