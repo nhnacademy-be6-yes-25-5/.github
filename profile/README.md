@@ -26,6 +26,50 @@
 |-----|-----|-----|----|-----|
 <br/>
 
+### 개발 환경
+- 개발도구: Intellij IDEA - Ultimate
+- 언어: Java 21 LTS<br>
+- 빌드도구: Maven
+- 개발
+  - Spring Framework: 6.1.1
+  - Spring Boot: 3.3.0
+  - Spring Cloud
+    - Spring Cloud Gateway
+    - Spring Cloud Netflex(Eureka)
+    - Spring Cloud Config
+  - Spring Data
+    - Spring Data JPA
+    - Spring Data Elasticsearch
+    - Spring Data Redis
+    - Spring Data JPA
+- 테스트
+  - Junit5
+  - AssertJ
+  - Mockito
+  - SonarQube
+- 데이터베이스
+  - MySQL: 8.0.37
+  - Redis
+- 검색엔진
+  - Elastic Search: 7.17.4
+- ERD
+  - ERDCloud
+- UI
+  - BOOTSTRAP5
+  - TOAST UI
+- NHN Cloud
+  - Instance
+  - Secure Key Manager
+  - Object Storage
+  - Image Manager
+- 기타
+  - Dooray Hook Sender
+  - Toss Payment
+  - Naver Search API
+  - NHN Payco OAuth2
+  - Rabbit MQ
+ 
+  <br/>
 
 # 📌 요구사항 분석
 
