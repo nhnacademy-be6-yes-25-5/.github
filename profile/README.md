@@ -1,5 +1,9 @@
 # 📗 Yes 25.5
 
+<br/>
+![yes255](https://github.com/user-attachments/assets/e0535a5f-7898-4ec5-8dbb-44a31ca6d7ac)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhnacademy-be6-yes-25-5&count_bg=%236A97F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > NHN 아카데미 6기 팀 `Yes 25.5` <br/>
