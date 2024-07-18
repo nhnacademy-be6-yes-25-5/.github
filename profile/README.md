@@ -101,7 +101,7 @@
 
 <br/>
 
-# 아키텍처 구조
+# 아키텍처
 
 ![image](https://github.com/user-attachments/assets/28dfd58c-e205-4b46-a4a0-5be936c392a7)
 
