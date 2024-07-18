@@ -21,6 +21,12 @@
 <br/>
 
 
+### 구성원
+| <a href="https://github.com/bbbbooo"><img src="https://github.com/bbbbooo.png" width="100px"><br>이현석</a> | <a href="https://github.com/Limchaereong"><img src="https://github.com/Limchaereong.png" width="100px"><br>임채령</a> | <a href="https://github.com/wnstj1548"><img src="https://github.com/wnstj1548.png" width="100px"><br>김준서</a> |<a href="https://github.com/lettuce82"><img src="https://github.com/lettuce82.png" width="100px"><br>채상희</a> |<a href ="https://github.com/Hyeok000"> <img src ="https://github.com/Hyeok000.png" width ="100px"><br>양혁</a>
+|-----|-----|-----|----|-----|
+<br/>
+
+
 # 📌 요구사항 분석
 
 > 자세한 과정은 [이곳](https://github.com/nhnacademy-be6-yes-25-5/.github/discussions/1)에 정리하였습니다.
@@ -40,4 +46,9 @@
 > 자세한 과정은 [이곳](https://github.com/nhnacademy-be6-yes-25-5/.github/discussions/2)에 정리하였습니다.
 
 ![image](https://github.com/nhnacademy-be6-yes-25-5/.github/assets/105257665/f3960de1-7a33-4fe6-9e13-a8bb031811b9)
+
+# 아키텍처 구조
+
+![yes255 아키텍처](https://github.com/user-attachments/assets/190af8dc-d38f-4bfd-bbc7-7e54f92d2ef6)
+
 
