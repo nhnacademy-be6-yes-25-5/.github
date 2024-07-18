@@ -47,6 +47,8 @@
 
 ![image](https://github.com/nhnacademy-be6-yes-25-5/.github/assets/105257665/f3960de1-7a33-4fe6-9e13-a8bb031811b9)
 
+<br/>
+
 # 아키텍처 구조
 
 ![yes255 아키텍처](https://github.com/user-attachments/assets/190af8dc-d38f-4bfd-bbc7-7e54f92d2ef6)
