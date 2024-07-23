@@ -103,6 +103,7 @@
 
 # 아키텍처
 
-![image](https://github.com/user-attachments/assets/28dfd58c-e205-4b46-a4a0-5be936c392a7)
+![image](https://github.com/user-attachments/assets/a60e4e55-5591-46cd-bbf6-cc55ce4a0714)
+
 
 
