@@ -105,5 +105,11 @@
 
 ![image](https://drive.google.com/uc?export=view&id=1lJXZ-WRWANgf-isCVc6eL3K34YREN-UD)
 
+<br/>
+
+# 시연영상
+
+https://github.com/user-attachments/assets/8f379c45-abd6-4026-a61c-8148bea9d357
+
 
 
