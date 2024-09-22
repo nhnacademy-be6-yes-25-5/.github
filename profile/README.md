@@ -11,9 +11,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnhnacademy-be6-yes-25-5&count_bg=%236A97F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > NHN 아카데미 6기 팀 `Yes 25.5` <br/>
-> 개발 기간 : 6.11 ~ ing <br/>
+> 개발 기간 : 2024.6.11 ~ 2024.8.9 <br/>
 - YES 25.5는 고객이 책을 검색하고 주문할 수 있는 인터넷 서점입니다. <br/>
-- URL : [https://yes25-5.shop/](https://yes25-5.shop/)
+- ~~URL : [https://yes25-5.shop/](https://yes25-5.shop/)~~
+> 2024.8.30 이후, 서비스가 중단되었습니다.
 
 
 <br/>
